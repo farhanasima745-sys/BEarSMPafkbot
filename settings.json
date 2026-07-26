@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Admin",
+    "username": "Unknown_YT3970",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Unknown_YT3970"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular Admin ",
-        "Subscribe to UnknownYT!",
-        "Nobody should Cheating!"
+        "Are You Know Unknown_YT3970",
+        "Subscribe to Unknown_YT3970!",
+        "Unknown_YT3970 IS A PRO PLAYER!"
       ]
     },
     "chat-log": true,
